@@ -1,0 +1,4 @@
+brand,model,version,price,doors,seats,transmission,fuel,city_consumption_e,road_consumption_e,city_consumption_g,road_consumption_g,fuel_tank_capacity,car_trunk_capacity
+FIAT,PULSE,1.3 FLEX DRIVE CVT,112990,4,5,CVT,Gasolina e álcool,8.9,10.5,13.0,14.7,47.0,370.0
+VOLKSWAGEN,T-CROSS,1.0 200 TSI TOTAL FLEX SENSE AUTOMÁTICO,119990,4,5,Automática,Gasolina e álcool,7.6,9.5,11.0,13.5,49.0,373.0
+CITROEN,C3,1.0 TURBO 200 FLEX YOU CVT,106990,4,5,CVT,Gasolina e álcool,7.9,8.8,11.5,12.9,47.0,315.0
